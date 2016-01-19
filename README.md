@@ -1,0 +1,1 @@
+# sequin.core [![Build status](https://ci.appveyor.com/api/projects/status/p0kk6pfhngvk6x6r?svg=true)](https://ci.appveyor.com/project/jasonmitchell/sequin-core) [![NuGet Version](http://img.shields.io/nuget/v/Sequin.Core.svg?style=flat)](https://www.nuget.org/packages/Sequin.Core/)
